@@ -1,4 +1,4 @@
-# Clojure Knapsack
+# Clojure Smuggler
 
 This is my answer to the problem located [Here] (http://spin.atomicobject.com/2011/05/31/use-clojure-to-move-drugs-a-programming-challenge/)
 
@@ -18,8 +18,8 @@ NOTE: These instructions are for if you use [homebrew](https://github.com/mxcl/h
 
 ```
 > brew install leiningen
-> git clone git@github.com:zenom/clojure-knapsack.git
-> cd clojure-knapsack/
+> git clone git@github.com:zenom/clojure-smuggler.git
+> cd clojure-smuggler/
 ```
 
 ## Run the code within lein
